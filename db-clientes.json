@@ -1,0 +1,88 @@
+{
+  "clientes": [
+    {
+      "id": "f5effb9b-a26b-4594-80e7-bb730c575875",
+      "Nombre": "Drako",
+      "Correo": "uribeparaco@gmail.com",
+      "Whastapp": "3108018388",
+      "Discoteca": "Morena",
+      "Dia": "10",
+      "Mes": "08",
+      "Año": "1993",
+      "EstadoReserva": "Aceptada",
+      "ContactoActivo": "No contesta"
+    },
+    {
+      "id": "a77abc39-a14f-4b27-9e42-4cc03b6f8c6d",
+      "Nombre": "Maria Correa",
+      "Correo": "maria@gmail.com",
+      "Whastapp": "3147785341",
+      "Discoteca": "Tabu",
+      "Dia": "19",
+      "Mes": "11",
+      "Año": "1997",
+      "EstadoReserva": "Aceptada",
+      "ContactoActivo": "No contesta"
+    },
+    {
+      "id": "d054a3f5-c3c1-4f48-af38-8f62b36d8f15",
+      "Nombre": "Daniela Cardenas",
+      "Correo": "dannacard@gmail.com",
+      "Whastapp": "3213348970",
+      "Discoteca": "London",
+      "Dia": "29",
+      "Mes": "12",
+      "Año": "1994",
+      "EstadoReserva": "Aceptada",
+      "ContactoActivo": "No contesta"
+    },
+    {
+      "id": "b2e6d852-5865-45ed-ac47-b520525a4d7f",
+      "Nombre": "Daniel Lopez",
+      "Correo": "danloppexd@gmail.com",
+      "Whastapp": "3213318966",
+      "Discoteca": "London",
+      "Dia": "29",
+      "Mes": "10",
+      "Año": "1990",
+      "EstadoReserva": "Aceptada",
+      "ContactoActivo": "No contesta"
+    },
+    {
+      "id": "26f1725f-bc66-4c93-9047-30ef0f05c446",
+      "Nombre": "Brayan Quiroz",
+      "Correo": "elbrayan@gmail.com",
+      "Whastapp": "3226346776",
+      "Discoteca": "Lupe",
+      "Dia": "22",
+      "Mes": "11",
+      "Año": "1997",
+      "EstadoReserva": "Aceptada",
+      "ContactoActivo": "No contesta"
+    },
+    {
+      "id": "9862f7dd-b7dc-4709-82cf-4764bebc11a6",
+      "Nombre": "Dayana3 Mendez",
+      "Correo": "ladayanna@gmail.com",
+      "Whastapp": "3223266746",
+      "Discoteca": "Lupe",
+      "Dia": "02",
+      "Mes": "12",
+      "Año": "1996",
+      "EstadoReserva": "Aceptada",
+      "ContactoActivo": "No contesta"
+    },
+    {
+      "id": "fbac01c7-724a-4376-aa20-9e8752bc9553",
+      "Nombre": "Juana Mendez",
+      "Correo": "juanadearco@gmail.com",
+      "Whastapp": "3105532746",
+      "Discoteca": "Morena",
+      "Dia": "09",
+      "Mes": "12",
+      "Año": "1998",
+      "EstadoReserva": "Aceptada",
+      "ContactoActivo": "No contesta"
+    }
+  ]
+}
