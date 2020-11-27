@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const { getClientes, getCliente, postCliente, putCliente, deleteCliente } = require('../controllers/clientesController');
-const { getReservas, getReserva, postReserva, putReserva, deleteReserva } = require('../controllers/ReservasController');
+//const { getReservas, getReserva, postReserva, putReserva, deleteReserva } = require('../controllers/ReservasController');
+//const { getReserva, getReservas, postReserva, putReserva, deleteReserva } = require('../controllers/reservasController');
 
 
 router.get('/clientes', getClientes)
@@ -11,10 +12,10 @@ router.delete('/clientes/:id', deleteCliente)
 
 ///////////////////////////////////////
 
-router.get('/reservas', getReservas)
-router.get('/reservas/:id',getReserva )
-router.post('/reservas', postReserva)
-router.put('/reservas/:id', putReserva)
-router.delete('/reservas/:id', deleteReserva)
+//router.get('/reservas', getReservas)
+//router.get('/reservas/:id',getReserva )
+//router.post('/reservas', postReserva)
+//router.put('/reservas/:id', putReserva)
+//router.delete('/reservas/:id', deleteReserva)
 
 module.exports = router;
