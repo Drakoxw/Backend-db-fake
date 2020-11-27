@@ -11,8 +11,8 @@ router.delete('/clientes/:id', deleteCliente)
 
 ///////////////////////////////////////
 
-//router.get('/reservas', getReservas)
-//router.get('/reservas/:id',getReserva )
+router.get('/reservas', getReservas)
+router.get('/reservas/:id',getReserva )
 //router.post('/reservas', postReserva)
 //router.put('/reservas/:id', putReserva)
 //router.delete('/reservas/:id', deleteReserva)
