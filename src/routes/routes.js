@@ -1,7 +1,6 @@
 const router = require('express').Router();
 const { getClientes, getCliente, postCliente, putCliente, deleteCliente } = require('../controllers/clientesController');
-//const { getReservas, getReserva, postReserva, putReserva, deleteReserva } = require('../controllers/ReservasController');
-//const { getReserva, getReservas, postReserva, putReserva, deleteReserva } = require('../controllers/reservasController');
+const { getReserva, getReservas, postReserva, putReserva, deleteReserva } = require('../controllers/reservasController');
 
 
 router.get('/clientes', getClientes)
