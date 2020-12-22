@@ -19,11 +19,11 @@ const postCliente = (req, res) => {
         Sexo: req.body.Sexo,
         Whastapp: req.body.Whastapp,
         Discoteca: req.body.Discoteca,
-        Dia: req.body.Dia,
-        Mes: req.body.Mes,
-        Año: req.body.Año,
-        EstadoReserva: req.body.EstadoReserva,
-        ContactoActivo: req.body.ContactoActivo
+        Dia: parseInt(req.body.Dia, 10),
+        Mes: parseInt(req.body.Mes, 10),
+        Año: parseInt(req.body.Año, 10),
+        EstadoReserva: 'No usado',
+        ContactoActivo: 'No usado'
     };
     getConnectionCli().get('clientes').push(newCli).write()
     res.send(newCli)
