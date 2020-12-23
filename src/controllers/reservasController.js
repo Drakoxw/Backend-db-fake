@@ -15,15 +15,16 @@ const postReserva = (req, res) => {
     const newReserv = {
         id: v4(),
         id_cliente: req.body.id_cliente,
-        EstadoReserva: req.body.EstadoReserva,
         NombreContacto: req.body.NombreContacto,
-        MotivoReserva: req.body.MotivoReserva,
-        TipoReserva: req.body.TipoReserva,
+        Whastapp: req.body.Whastapp,
+        MotivoReserva: 'Cumpleaños',
+        NombreCumpleañero: ``,
+        EstadoReserva: req.body.EstadoReserva,
+        TipoReserva: 'Básica',
         Discoteca: req.body.Discoteca,
-        NombreCumpleañero: req.body.NombreCumpleañero,
-        FechaReserva: req.body.FechaReserva,
-        Promotor: 'NN',
-        Observaciones: req.body.Observaciones  
+        FechaReserva: 'Ingresar fecha',
+        Observaciones: 'No hay observaciones',
+        Promotor: 'NN'
     };
     getConnectionReserv().get('reservas').push(newReserv).write()
     res.send(newReserv)
