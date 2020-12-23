@@ -22,10 +22,10 @@ const postReserva = (req, res) => {
         Discoteca: req.body.Discoteca,
         NombreCumpleañero: req.body.NombreCumpleañero,
         FechaReserva: req.body.FechaReserva,
-        Promotor: req.body.Promotor,
+        Promotor: 'NN',
         Observaciones: req.body.Observaciones  
     };
-    getConnectionReserv().get('clientes').push(newReserv).write()
+    getConnectionReserv().get('reservas').push(newReserv).write()
     res.send(newReserv)
 }
 
