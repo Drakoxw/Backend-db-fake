@@ -85,7 +85,7 @@
       "Discoteca": "Morena",
       "Sexo": "Femenino",
       "Dia": 9,
-      "Mes": 12,
+      "Mes": 1,
       "Año": 1998,
       "EstadoReserva": "Aceptada",
       "ContactoActivo": "No contesta"
@@ -100,7 +100,7 @@
       "Dia": 22,
       "Mes": 5,
       "Año": 1986,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -113,7 +113,7 @@
       "Dia": 4,
       "Mes": 4,
       "Año": 1995,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -126,7 +126,7 @@
       "Dia": 19,
       "Mes": 6,
       "Año": 1988,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -139,7 +139,7 @@
       "Dia": 9,
       "Mes": 9,
       "Año": 1987,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -152,7 +152,7 @@
       "Dia": 31,
       "Mes": 3,
       "Año": 1995,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -165,7 +165,7 @@
       "Dia": 30,
       "Mes": 10,
       "Año": 1976,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -178,7 +178,7 @@
       "Dia": 11,
       "Mes": 2,
       "Año": 1996,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -191,7 +191,7 @@
       "Dia": 20,
       "Mes": 4,
       "Año": 1970,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -204,7 +204,7 @@
       "Dia": 31,
       "Mes": 5,
       "Año": 1992,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -217,7 +217,7 @@
       "Dia": 6,
       "Mes": 6,
       "Año": 1985,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -230,7 +230,7 @@
       "Dia": 25,
       "Mes": 7,
       "Año": 1997,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -243,7 +243,7 @@
       "Dia": 16,
       "Mes": 8,
       "Año": 1980,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -256,7 +256,7 @@
       "Dia": 10,
       "Mes": 7,
       "Año": 1995,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     },
     {
@@ -269,7 +269,7 @@
       "Dia": 4,
       "Mes": 11,
       "Año": 1990,
-      "EstadoReserva": "No usado",
+      "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     }
   ]

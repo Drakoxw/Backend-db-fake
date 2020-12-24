@@ -22,7 +22,7 @@ const postCliente = (req, res) => {
         Dia: parseInt(req.body.Dia, 10),
         Mes: parseInt(req.body.Mes, 10),
         Año: parseInt(req.body.Año, 10),
-        EstadoReserva: 'No usado',
+        EstadoReserva: 'No usado ',
         ContactoActivo: 'No usado'
     };
     getConnectionCli().get('clientes').push(newCli).write()
