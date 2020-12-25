@@ -27,18 +27,6 @@
       "ContactoActivo": "No contesta"
     },
     {
-      "id": "d054a3f5-c3c1-4f48-af38-8f62b36d8f15",
-      "Nombre": "Daniela Cardenas",
-      "Correo": "dannacard@gmail.com",
-      "Whastapp": "3213348970",
-      "Discoteca": "London",
-      "Dia": 26,
-      "Mes": 12,
-      "Año": 1994,
-      "EstadoReserva": "Aceptada",
-      "ContactoActivo": "No contesta"
-    },
-    {
       "id": "b2e6d852-5865-45ed-ac47-b520525a4d7f",
       "Nombre": "Daniel Lopez",
       "Correo": "danloppexd@gmail.com",
@@ -269,6 +257,32 @@
       "Dia": 4,
       "Mes": 11,
       "Año": 1990,
+      "EstadoReserva": "No usado ",
+      "ContactoActivo": "No usado"
+    },
+    {
+      "id": "acff0a92-89e4-4b89-b910-498613597ea1",
+      "Nombre": "pepe",
+      "Correo": "pepe@",
+      "Sexo": "Femenino",
+      "Whastapp": "54453455",
+      "Discoteca": "Tabu",
+      "Dia": 22,
+      "Mes": 1,
+      "Año": 1990,
+      "EstadoReserva": "No usado ",
+      "ContactoActivo": "No usado"
+    },
+    {
+      "id": "17627a6a-77da-4fb5-9fa3-732e81810783",
+      "Nombre": "Juana Mendez",
+      "Correo": "mentemente@gmail.com",
+      "Sexo": "Femenino",
+      "Whastapp": "3147785341",
+      "Discoteca": "Tabu",
+      "Dia": 31,
+      "Mes": 12,
+      "Año": 1997,
       "EstadoReserva": "No usado ",
       "ContactoActivo": "No usado"
     }
